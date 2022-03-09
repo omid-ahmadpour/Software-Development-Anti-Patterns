@@ -1,5 +1,5 @@
 # Software-Design-Anti-Patterns
-Anti-patterns you should avoid
+Anti-Patterns you should avoid
 
 ## Contents
 

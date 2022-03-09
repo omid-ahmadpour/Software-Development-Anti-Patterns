@@ -7,3 +7,5 @@ Anti-patterns you Should Avoid
 - [Number II: Golden Hammer](docs/Golden-Hammer.md)
 - [Number III: Boat Anchor](docs/Golden-Hammer.md)
 - [Number IV: Dead Code](docs/Dead-Code.md)
+- [Number V: Proliferation of Code](docs/Proliferation-of-Code.md)
+- [Number VI: God Object](docs/God-Object.md)

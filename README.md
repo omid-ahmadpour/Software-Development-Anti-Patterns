@@ -9,3 +9,4 @@ Anti-Patterns you should avoid
 - [Number IV: Dead Code](docs/Dead-Code.md)
 - [Number V: Proliferation of Code](docs/Proliferation-of-Code.md)
 - [Number VI: God Object](docs/God-Object.md)
+- [Number VI: Ambiguous Viewpoint](docs/Ambiguous-Viewpoint.md)

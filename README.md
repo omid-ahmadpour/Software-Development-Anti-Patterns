@@ -3,7 +3,7 @@ Anti-patterns you Should Avoid
 
 ## Contents
 
-- [Number I: Spaghetti Code](docs/SpaghettiCode)
-- [Number II: Golden Hammer](docs/GoldenHammer)
-- [Number III: Boat Anchor](docs/GoldenHammer)
-- [Number IV: Dead Code](docs/DeadCode)
+- [Number I: Spaghetti Code](docs/Spaghetti-Code)
+- [Number II: Golden Hammer](docs/Golden-Hammer)
+- [Number III: Boat Anchor](docs/Golden-Hammer)
+- [Number IV: Dead Code](docs/Dead-Code)

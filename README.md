@@ -1,5 +1,4 @@
-# Software-Development-Anti-Patterns
-## Anti-Patterns you should avoid
+# Software Development Anti-Patterns you should avoid
 
 Good software structure is essential for system extension and maintenance.
 The existence of an anti-pattern in your code can create a lot of bugs and you may have to fix it later properly. 
@@ -11,7 +10,7 @@ Please have a look and give your thoughts.
 I would love your contribution, so feel free to contribute.
 
 
-## List
+## Software Development Anti-Patterns
 
 - [Number I: Spaghetti Code](docs/Spaghetti-Code.md)
 - [Number II: Golden Hammer](docs/Golden-Hammer.md)

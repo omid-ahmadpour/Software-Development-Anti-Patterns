@@ -9,10 +9,7 @@ The existence of an anti-pattern in your code can create a lot of bugs and you m
 Anti-patterns can introduce technical debt to your software development project. Your team will eventually have to go back and fix the code, which can put the project schedule at risk.
 Here are some common anti-patterns that you should avoid.
 
-Please have a look and give your thoughts.
-
 I would love your contribution, so feel free to contribute.
-
 
 ## Software Development Anti-Patterns
 

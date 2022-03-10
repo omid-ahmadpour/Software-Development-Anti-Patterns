@@ -1,5 +1,9 @@
 # Software Development Anti-Patterns you should avoid
 
+## Give a Star! ⭐
+If you like or are using this repository to learn or start your project, please give it a star. Thanks!
+
+# Introduction
 Good software structure is essential for system extension and maintenance.
 The existence of an anti-pattern in your code can create a lot of bugs and you may have to fix it later properly. 
 Anti-patterns can introduce technical debt to your software development project. Your team will eventually have to go back and fix the code, which can put the project schedule at risk.
